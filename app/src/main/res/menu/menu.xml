@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <item
+        android:title="@string/languages"
+        android:id="@+id/language"
+        >
+        <menu>
+            <item
+                android:icon="@drawable/english"
+                android:title="@string/select_english"
+                android:id="@+id/_english"/>
+
+            <item
+                android:icon="@drawable/uzbek"
+                android:title="@string/select_uzbek"
+                android:id="@+id/_uzbek"/>
+        </menu>
+    </item>
+
+    <item
+        android:icon="@drawable/history"
+        android:title="History"
+        android:id="@+id/_history"/>
+
+    <item
+        android:icon="@drawable/ic_about"
+        android:id="@+id/_about"
+        android:title="@string/about"/>
+
+    <item
+        android:icon="@drawable/ic_share"
+        android:id="@+id/_share"
+        android:title="@string/share"/>
+
+</menu>

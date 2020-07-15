@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Views.startingActivity"
+    android:background="#000"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/uzbek_lang"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="@string/select_uzbek"
+        android:background="@drawable/uzbek_bg"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="uzbekClick"/>
+
+
+    <Button
+        android:id="@+id/english_lang"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/uzbek_lang"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="@string/select_english"
+        android:background="@drawable/english_bg"
+        android:textColor="#fff"
+        android:onClick="englishClick"/>
+
+
+
+
+</RelativeLayout>

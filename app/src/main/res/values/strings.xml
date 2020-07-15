@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Test Your\nKnowledge</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="ENGLISH">e</string>
+    <string name="UZBEK">u</string>
+
+    <string name="select_english">English</string>
+    <string name="select_uzbek">Uzbek</string>
+    <string name="category">Categories</string>
+    <string name="fanlar">Fanlar</string>
+    <string name="languages">Languages</string>
+    <string name="tillar">Tillar</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="haqida">Ma\'lumotnoma</string>
+    <string name="ulashish">Ulashish</string>
+    <string name="topscore">High Scores: </string>
+    <string name="yuqoriball">Yuqori ball: </string>
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="tasdiqlash">Tasdiqlash</string>
+    <string name="keyingisi">Keyingisi</string>
+    <string name="natijakorish">Natijalarni\nKo\'rish</string>
+    <string name="warning">Warning</string>
+    <string name="warning_message">Your answers will not be saved!</string>
+    <string name="diqqat">Diqqat!</string>
+    <string name="diqqat_xabari"> Javoblaringiz saqlanmaydi!</string>
+    <string name="english_selected">English Selected!</string>
+    <string name="uzbek_selected">O\'zbekcha tanlandi!</string>
+    <string name="results">Your Results: </string>
+    <string name="natijalar">Natijalar: </string>
+    <string name="total_question">Total : </string>
+    <string name="corrects">Correct : </string>
+    <string name="wrongs">Wrong : </string>
+    <string name="jamisavol">Jami savol : </string>
+    <string name="togrijavob">To\'g\'ri javob : </string>
+    <string name="notogrijavob">Noto\'g\'ri javob : </string>
+    <string name="bad">Bad!</string>
+    <string name="bad_">It seems like you need to review your knowledge on this subject! </string>
+    <string name="not_bad_">Not Bad!\nbut, you have to recover some of your knowledge in this field! </string>
+    <string name="good_job_">Good Job!\nTry again for better results! </string>
+    <string name="well_done_">Well Done!\nTry once more for higher records!</string>
+    <string name="perfect_">Perfect!\nKeep achieving high results!</string>
+    <string name="excellen_">Excellent!\nYou achieved the highest score!</string>
+    <string name="chatoq">Ahvol Chatoq-ku!</string>
+    <string name="yomon">Ko\'rinib turibdiki bilimlaringizni qayta yodga olishingiz kerak!</string>
+    <string name="yomon_emas">Yomon Emas!\nbiroq,bilimlaringizni qayta mustahkamlab olishingiz kerak!</string>
+    <string name="yaxshinatija">Yaxshi Natija!Yana bir bor urinib ko\'ring!</string>
+    <string name="barakalla">Barakalla!</string>
+    <string name="qoyilmaqom">Qoyilmaqom!\nyuqori natijalarga erishishda davom eting!</string>
+    <string name="tarifgatilojiz">Ta\'rifga til ojiz!!!\nsiz eng yuqori natijaga erishdingiz!</string>
+    <string name="restart">Restart</string>
+    <string name="qayta_boshlash">Qayta\nBoshlash</string>
+    <string name="back_to_main">Back\nTo Main</string>
+    <string name="boshiga_qaytish">Bosh\nSahifa</string>
+
+    <string name="about_eng">
+        1. This application is intended to test the users knowledge at different categories.\n2. The number of questions may differ by categories,difficulties and languages.\n3. Each language has separate questions and separate scores.\n4. Each question with difficulties easy, medium, hard carries 2, 3, 4 points accordingly for the correct answer.\n\n\nFor more questions, you may contact the developer at: shohruxbeka@mail.ru.\n\ndeveloped by : Shohruxbek
+    </string>
+    <string name="about_uzb">
+        1. Ushbu ilova foydalanuvchining turli fanlardagi ilmiy salohiyatini tekshirish uchun mo\'ljallangan.\n2. Savollar soni fanlarga, qiyinlik darajalariga va tillarga qarab o\'zgarishi mumkin.\n3. Har bir to\'g\'ri topilgan javob uchun qiyinlik darajalariga qarab 2, 3, 4 bal beriladi.\n\n\nBoshqa savollar uchun quyidagi elektron manzil orqali ilova tuzuvchi bilan bog\'lanishingiz mumkin: shohruxbeka@mail.ru \n\nilova tuzuvchi : Shohruxbek
+    </string>
+    <string name="about_back_eng">back</string>
+    <string name="about_back_uzb">bosh\nsahifa</string>
+
+
+    <string name="easy">easy: </string>
+    <string name="normal">normal: </string>
+    <string name="hard">hard: </string>
+
+    <string name="oson">oson: </string>
+    <string name="normal_uzb">normal: </string>
+    <string name="qiyin">qiyin: </string>
+
+
+    <string name="history">History</string>
+    <string name="category_history">Category</string>
+    <string name="difficulty_history">Difficulty</string>
+    <string name="score_history">corrects</string>
+    <string name="time_history">Time</string>
+    <string name="back_history">Back</string>
+
+
+    <string name="Arxiv">Arxiv</string>
+    <string name="fanlar_arxiv">Fanlar</string>
+    <string name="daraja_arxiv">Darajasi</string>
+    <string name="ballar_arxiv">to\'g\'ri j.lar</string>
+    <string name="vaqt_arxiv">Vaqt</string>
+    <string name="orqaga_arxiv">bosh\nsahifa</string>
+
+
+
+</resources>
